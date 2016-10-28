@@ -1,0 +1,86 @@
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+  
+  <head>
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous"> 
+    
+    
+    <section class="jumbotron">
+      <div class="container">
+      
+        <div class="videosection">
+<video id="videoelement" preload="auto" autoplay="true" loop="loop" mute="muted" src="http://video.vzaar.com/vzaar/vzc/365/target/vzc365bba8d8394bcba874d25a2d26dd99.mp4?response-content-disposition=inline&AWSAccessKeyId=AKIAJ74MFWNVAFH6P7FQ&Expires=1477601594&Signature=OAXaENyCL38qDziuvrrmJBbJz8I%3D" type="video/mp4"></video>
+        </div>
+        </div>
+        
+        </section>
+      
+      
+          
+      <h2><span>Daniel Bakh Title</span></h2>
+       
+      
+        
+        <div class="row text-center">
+      
+          <a class="btn btn-primary" href="https://www.linkedin.com/in/danielbakh" role="button">LinkedIN Page</a>
+          
+       
+         
+
+    <div class="flipcard1">
+     <div class="front">
+     <h1>Experience</h1>
+       </div>
+
+
+     <div class="back">
+     <p>Text here
+       Here you will insert text about experiences.</p>
+            </div>
+     </div>
+
+            
+                        
+               
+      </div>
+    </figure>
+    
+    
+    
+    
+    
+    
+    <figure class="col-sm-6">
+      <div class="flipcard2">
+     <div class="front">
+     <h1>Experience</h1>
+       </div>
+
+     <div class="back">
+     <p>Text here</p>
+       <p>Here you will insert text about experiences.</p>
+            </div>
+     </div>
+    </figure>
+    </div>
+           
+              <div class="flipcard3">
+     <div class="front">
+     <h1>Experience</h1>
+       </div>
+
+     <div class="back">
+     <p>Text here</p>
+       <p>Here you will insert text about experiences.</p>
+            </div>
+     </div>
+    </figure>
+                </div>
+         
+  </section>
+            
+     
+    
+</html>
